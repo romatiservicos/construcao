@@ -172,7 +172,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 .banner p{
 	font-size:2em;
-	color:#fff;
+	color:#000;
 	text-align:right;
 	text-transform:capitalize;
 	margin:10em 0 0;
@@ -183,7 +183,9 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 .banner p span{
 	font-weight: bold;
-    background: #fa3d43;
+    background: #847c7c;
+	opacity: 0.7;
+/*--	background-color: ;--*/
     display: inline-block;
     padding: 0 .5em;
 }
